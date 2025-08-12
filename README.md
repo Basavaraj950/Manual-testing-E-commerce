@@ -27,8 +27,7 @@ Edit
 ├── 📄 Product_Browsing_TestCases.xlsx
 ├── 📄 Add_To_Cart_TestCases.xlsx
 ├── 📄 Checkout_Payment_TestCases.xlsx
-├── 📄 Defect_Report.xlsx
-├── 📄 Test_Summary_Report.docx
+├── 
 └── README.md                      # Project overview (this file)
 🛠 Tools & Technologies Used
 Test Design: MS Excel, MS Word
@@ -37,7 +36,7 @@ Testing Type: Functional Testing, UI Testing, Positive & Negative Testing
 
 Browser: Google Chrome (latest version)
 
-OS: Windows 10
+OS: Windows 10/11
 
 📜 Test Scope
 In-Scope
