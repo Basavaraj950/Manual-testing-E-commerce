@@ -46,28 +46,16 @@ Performing checkout flow
 
 Payment flow validations
 
-Out-of-Scope
 
-Backend database testing
 
-API testing
 
-Performance and load testing
-
-✅ Deliverables
-Test Plan (IEEE 829 standard format)
+ Deliverables
+Test Plan 
 
 Test Cases (Excel format)
 
-Defect Report
 
-Test Summary Report
 
-📊 Sample Test Scenarios
-Test ID	Scenario	Expected Result	Status
-PB_01	Browse products by category	Products from selected category should display	✅ Pass
-AC_03	Add multiple products to cart	All selected products appear in cart with correct price	✅ Pass
-CP_05	Invalid payment card number	Error message should display	✅ Pass
 
 🚀 How to Use
 Clone this repository.
@@ -76,5 +64,5 @@ Open test plan and test case files to review the scenarios.
 
 Execute test cases on Demoblaze.
 
-Log any found defects in the defect report.
+
 
