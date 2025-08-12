@@ -17,10 +17,7 @@ Checkout Process
 
 Payment Process
 
-📂 Project Structure
-bash
-Copy
-Edit
+
 📁 Demoblaze-Manual-Testing
 │
 ├── 📄 Test_Plan.docx              # Detailed Test Plan document
@@ -81,6 +78,3 @@ Execute test cases on Demoblaze.
 
 Log any found defects in the defect report.
 
-📌 Author
-Basavaraj Kamatar
-Manual Software Tester | QA Enthusiast
